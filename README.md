@@ -6,5 +6,11 @@ We'll be using Gitter again for chat, although we'll be in a different room toda
 
 Yolo!!!
 
+<<<<<<< HEAD
 ### Resources
 - [GitHUb Guides](https://guides.github.com)
+=======
+### Intuit - dealing with mergge conflict
+
+Resolve conflict
+>>>>>>> upstream/master
